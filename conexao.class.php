@@ -3,8 +3,8 @@
 	Class Conexao{
 
 		protected $host   = '127.0.0.1';
-		protected $user   = 'belcomsa_pcsreis';
-		protected $pswd   = '*982425677*';
+		protected $user   = '';
+		protected $pswd   = '';
 		protected $dbname = 'belcomsa_mkt';
 		protected $port   = '5432';
 		protected $con    = null;		
